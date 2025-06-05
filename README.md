@@ -70,7 +70,8 @@ A complete event ticket booking platform built with PHP and MySQL. Users can bro
 
 ## Screenshots
 
-![Home Page](image/home.png)
+![home](https://github.com/user-attachments/assets/a78dc394-4850-49bd-a9f2-bc37cfc47511)
+
 
 
 ## License
