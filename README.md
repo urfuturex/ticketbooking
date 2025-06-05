@@ -1,6 +1,7 @@
 # Ticket Booking PHP Web Application
 
 A complete event ticket booking platform built with PHP and MySQL. Users can browse, search, and book tickets for concerts and events. Admins can manage events, ticket types, and user accounts. The project also integrates with VNPAY for online payments.
+![home](https://github.com/user-attachments/assets/a78dc394-4850-49bd-a9f2-bc37cfc47511)
 
 ## Features
 
@@ -68,9 +69,9 @@ A complete event ticket booking platform built with PHP and MySQL. Users can bro
   └── ... (other files)
 ```
 
-## Screenshots
 
-![home](https://github.com/user-attachments/assets/a78dc394-4850-49bd-a9f2-bc37cfc47511)
+
+
 
 
 
